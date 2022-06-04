@@ -1,2 +1,3 @@
 #### from bytecode-to-solidity, working on....
 - Dont know whether to use rust or typescript, guess i should go with typescript, since we are not hoping for speed
+- push mvp fast
